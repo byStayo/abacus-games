@@ -1,0 +1,5 @@
+# Abacus Games - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://games.abacuswealthgroup.com/sitemap.xml
